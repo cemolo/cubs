@@ -12,7 +12,7 @@ let exphbs = require ('express-handlebars');
 // Sets up the Express App
 // =============================================================
 let app = express();
-let PORT = process.env.PORT || 7000;
+let PORT = process.env.PORT || 7070;
 
 // Requiring our models for syncing
 let db = require("./models");
