@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mespada829/code_cubs.git"
+    "url": "git+https://github.com/funduval/cubs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mespada829/code_cubs/issues"
+    "url": "https://github.com/funduval/cubs/issues"
   },
-  "homepage": "https://github.com/mespada829/code_cubs#readme",
+  "homepage": "https://github.com/funduval/cubs#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
