@@ -157,7 +157,7 @@ h1 {
 }
 
 #modal5 {
-	min-height: 500px;
+	min-height: 520px;
 	background-color: #474747;
 }
 
@@ -245,13 +245,10 @@ li {
 	margin: 0 auto;
 } 
 
-#modal5{
 
-
-}
 #modal6{
 
-
+min-height:520px;
 	
 }
 
